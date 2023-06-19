@@ -415,12 +415,12 @@ select {
 }
 .font_remove {
   font-family: "Poppins";
-  font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  line-height: 150%;
-  color: #000000;
-  opacity: 0.6;
+  color: #666666;
+}
+.icon_clr {
+  color: #666666;
 }
 .p_10 {
   padding: 13px 20px 26px 27px;
