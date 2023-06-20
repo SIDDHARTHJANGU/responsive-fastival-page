@@ -116,6 +116,9 @@
   .ml-0 {
     margin-left: 0 !important;
   }
+  .ml-10 {
+    padding-left: 15px;
+  }
   .my_20 {
     margin-top: 20px;
     margin-bottom: 20px;
@@ -468,7 +471,7 @@ select {
   color: #ffffff;
 }
 .pt_126 {
-  padding-top: 126px;
+  padding-top: 50px;
 }
 .font_galery {
   font-family: "Poppins";
@@ -542,6 +545,9 @@ select {
   }
   .grid_box {
     gap: 15px;
+  }
+  .width_21 {
+    width: 21%;
   }
   .ml_45 {
     margin-left: 0;
